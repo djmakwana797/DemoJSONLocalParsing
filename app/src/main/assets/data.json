@@ -1,0 +1,17 @@
+{
+	"sites" : [
+		{
+			"site" : "Google",
+			"url" : "https://www.google.com"
+		},{
+			"site" : "Github",
+			"url" : "https://github.com/djmakwana797"
+		},{
+			"site" : "LinkedIn",
+			"url" : "https://www.linkedin.com/in/divya-makwana-5247321a9"
+		},{
+			"site" : "Mobile",
+			"url" : "9977885566"
+		}
+	]
+}
